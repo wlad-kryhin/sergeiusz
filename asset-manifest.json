@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sergeiusz/static/css/main.9f6bd10c.css",
+    "main.js": "/sergeiusz/static/js/main.4889fa75.js",
+    "static/js/787.bc80c25f.chunk.js": "/sergeiusz/static/js/787.bc80c25f.chunk.js",
+    "static/media/Sofia.jpeg": "/sergeiusz/static/media/Sofia.78aa22f3042f39ec50a0.jpeg",
+    "index.html": "/sergeiusz/index.html",
+    "main.9f6bd10c.css.map": "/sergeiusz/static/css/main.9f6bd10c.css.map",
+    "main.4889fa75.js.map": "/sergeiusz/static/js/main.4889fa75.js.map",
+    "787.bc80c25f.chunk.js.map": "/sergeiusz/static/js/787.bc80c25f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6bd10c.css",
+    "static/js/main.4889fa75.js"
+  ]
+}
